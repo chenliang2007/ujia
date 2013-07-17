@@ -1,0 +1,2 @@
+Wed, 17 Jul 2013 11:56:11 +0800	[2]fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: php_network_getaddresses: getaddrinfo failed: No address associated with hostname	/includes/libraries/class.smtp.php	89
+Wed, 17 Jul 2013 11:57:00 +0800	[2]fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: php_network_getaddresses: getaddrinfo failed: No address associated with hostname	/includes/libraries/class.smtp.php	89
